@@ -8,5 +8,6 @@ public UnityEvent Event;
 private void OnCollisionEnter()
 {
     Event.Invoke();
+    Destroy(GameObject.FindWithTag("Player"));
 }
 }
