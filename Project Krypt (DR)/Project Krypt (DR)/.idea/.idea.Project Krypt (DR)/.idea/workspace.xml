@@ -25,22 +25,53 @@
   <component name="ChangeListManager">
     <list default="true" id="62a864d9-b808-412b-a349-1d8d34ec4336" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PCCEvent.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/PCCEvent.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
               <folding>
-                <marker date="1549001528389" expanded="false" signature="6:44" ph="..." />
-                <marker date="1549001528389" expanded="true" signature="83:216" ph="{...}" />
-                <marker date="1549001528389" expanded="true" signature="143:214" ph="{...}" />
+                <marker date="1549301187357" expanded="false" signature="6:44" ph="..." />
+                <marker date="1549301187357" expanded="true" signature="83:216" ph="{...}" />
+                <marker date="1549301187357" expanded="true" signature="143:214" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animal.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Animal.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding>
+                <marker date="1549302815452" expanded="false" signature="6:107" ph="..." />
+                <marker date="1549302815452" expanded="true" signature="144:312" ph="{...}" />
+                <marker date="1549302815452" expanded="true" signature="242:248" ph="{...}" />
+                <marker date="1549302815452" expanded="true" signature="303:310" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fish.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Fish.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <marker date="1549303080092" expanded="false" signature="6:78" ph="..." />
+                <marker date="1549303080092" expanded="true" signature="106:252" ph="{...}" />
+                <marker date="1549303080092" expanded="true" signature="181:188" ph="{...}" />
+                <marker date="1549303080092" expanded="true" signature="243:250" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -53,17 +84,27 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/PCCEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Animal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Fish.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/PCCEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Fish.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="130" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="251" />
+    <option name="y" value="115" />
     <option name="width" value="1440" />
     <option name="height" value="780" />
   </component>
@@ -73,15 +114,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
+      <pane id="Scratches" />
       <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Project Krypt (DR)" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-hidden-items" value="false" />
-        <option name="show-project-names" value="true" />
       </pane>
+      <pane id="SolutionExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -101,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+  <component name="RunManager" selected="Attach Unity.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -109,11 +157,12 @@
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
-      <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
-      <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Attach Unity.Attach to Unity Editor" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -126,11 +175,12 @@
       <option name="presentableId" value="Default" />
       <updated>1549001072448</updated>
       <workItem from="1549001077254" duration="1051000" />
+      <workItem from="1549301977927" duration="1530000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1051000" />
+    <option name="totallyTimeSpent" value="2581000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -142,44 +192,48 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="251" y="115" width="1440" height="780" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="TeamCity" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536232" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="TeamCity" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Performance Profiler" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectConfiguration" isUnityUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -193,12 +247,50 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/PCCEvent.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="150">
           <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
           <folding>
-            <marker date="1549001528389" expanded="false" signature="6:44" ph="..." />
-            <marker date="1549001528389" expanded="true" signature="83:216" ph="{...}" />
-            <marker date="1549001528389" expanded="true" signature="143:214" ph="{...}" />
+            <marker date="1549301187357" expanded="false" signature="6:44" ph="..." />
+            <marker date="1549301187357" expanded="true" signature="83:216" ph="{...}" />
+            <marker date="1549301187357" expanded="true" signature="143:214" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PCCEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <marker date="1549301187357" expanded="false" signature="6:44" ph="..." />
+            <marker date="1549301187357" expanded="true" signature="83:216" ph="{...}" />
+            <marker date="1549301187357" expanded="true" signature="143:214" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Animal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <marker date="1549302815452" expanded="false" signature="6:107" ph="..." />
+            <marker date="1549302815452" expanded="true" signature="144:312" ph="{...}" />
+            <marker date="1549302815452" expanded="true" signature="242:248" ph="{...}" />
+            <marker date="1549302815452" expanded="true" signature="303:310" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Fish.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <marker date="1549303080092" expanded="false" signature="6:78" ph="..." />
+            <marker date="1549303080092" expanded="true" signature="106:252" ph="{...}" />
+            <marker date="1549303080092" expanded="true" signature="181:188" ph="{...}" />
+            <marker date="1549303080092" expanded="true" signature="243:250" ph="{...}" />
           </folding>
         </state>
       </provider>

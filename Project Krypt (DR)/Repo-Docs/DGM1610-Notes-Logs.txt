@@ -1,0 +1,19 @@
+Intro to Scripting DGM1610
+
+Feb 4th, 2019
+-A class is an object.
+-Public is an access modifier. It is an aspect of unityEngine that inherits from unityEngine.
+-Class stands for Classification like in Mercades E-Class
+-The colon : signifies that the class belongs to with something else.
+public class Animal : MonoBehaviour 
+the above line of code causes 'Animal' to inherit from 'MonoBehaviour'
+-void means that there is nothing there. It is also a function type.
+-Remote example, class of remote that has functions as buttons.
+-Start starts when the game starts.
+-Update updates once every time a frame is pushed.
+-Curly brackets are containers for classes and functions.
+-Every function requires open and closed parenthesis, they are called function declarations.
+-The unity engine was built so that you don't have to make one from scratch. You are not a coder in this respect, you are a scripter.
+
+-We went over classes and inheritance. This is the fundimental concept of working in an engine like unity. Without inheritance, the unity engine would be irrelavant.
+-
