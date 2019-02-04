@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\10873423\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Project Krypt (DR).2135706363.00" t="ExcludeRecursive" />
-    <e p="C:\Users\10873423\Documents\DGM-1610-Spring-2019-DR-\Project Krypt (DR)\Project Krypt (DR)" t="IncludeRecursive">
+    <e p="C:\Users\cyber\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\cyber\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Project Krypt (DR).-1305567443.00" t="ExcludeRecursive" />
+    <e p="D:\UVU SPRING 2019\(Scripting) DGM 1610\Projects\DGM-1610-Spring-2019-DR-\Project Krypt (DR)\Project Krypt (DR)" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Animal.cs" t="Include" />
+        <e p="Bird.cs" t="Include" />
+        <e p="Dog.cs" t="Include" />
         <e p="Fish.cs" t="Include" />
         <e p="PCCEvent.cs" t="Include" />
       </e>
