@@ -1,0 +1,3 @@
+2019-02-05
+-Certain animal classes will contain unique information such as numbers, bools, and strings. Make sure to set these pieces of info up in the design, include reference information for sanity sake.
+-It's time to start making this game work! Script every day.
