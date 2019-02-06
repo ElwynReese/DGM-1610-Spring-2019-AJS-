@@ -1,5 +1,46 @@
 Intro to Scripting DGM1610
 
+Feb 6th, 2019
+
+-Review: Classes, Scripts including start and update.
+-Right click in project view to create C# script.
+-Project files must always be one word and be composed of CamelCasing
+-Erroneous scripts will cause problems, purge everything you don't need.
+-Creating a script called mammal.
+-Keywords mean are reserved attrubutions. Public is an access modyfier that is accessible to 'everything?'
+-Class is a classification of scripts that can then be used as objects.
+-Class Names are identifiers, such as 'Animal' or 'Mammal'.
+-The name of the script has to match the name of the class.
+-MonoBehaviour is an increadibly poorly optimized class, it is going to be replaced by a new set in the near future.
+-using UnityEngine; is an example of a namespace.
+-Start and Update are identifiers.
+-If you write good code, you shouldn't have to comment things... (Organization of largely complex projects may require it though.)
+-Remove the comments from you code as you finalize scripts.
+-Code block is like a paragraph.
+-//This is a comment, the computer won't read this.
+-The best code is written so that other people can understand it.
+-If what your doing is a function call, you must use void.
+-If there is a return call, you use something else.
+-Inheritance allows you to trim the fat out of long-lame-scripts.
+-A function call is a function that already exists that is being used through engine to perform the action.
+-Components are instances of scripts, not the scripts themselves. They are like manufatured products made by a factory.
+-Cookie cutters don't make cookie cutters, they make cookies. This is the basis of instancing in Unity.
+-The relevance of script-component instancing is how it is used in Memory.
+-GetComponent is a unity class. SpriteRenderer is a function, functions always have paranthesis. color modyfies SpriteRenderer. Alpha is set to transparent by default. = SkinColor; calls the variable.
+void Start()
+{
+GetComponent<SpriteRenderer>().color = SkinColor;
+}
+
+-transform is a function. Rotate is a function.
+void Update()
+{
+transform.rotate(0, 100, 0);
+}
+
+-Mammal script added, prints Hello, World!
+
+
 Feb 4th, 2019
 -A class is an object.
 -Public is an access modifier. It is an aspect of unityEngine that inherits from unityEngine.
