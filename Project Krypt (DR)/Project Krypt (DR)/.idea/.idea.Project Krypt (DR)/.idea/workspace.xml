@@ -49,13 +49,30 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Main/TheWall.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" column="106" selection-start-line="4" selection-start-column="106" selection-end-line="4" selection-end-column="106" />
+            <state relative-caret-position="45">
+              <caret line="5" column="109" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
               <folding>
-                <marker date="1549511165684" expanded="false" signature="6:78" ph="..." />
-                <marker date="1549511165684" expanded="true" signature="224:345" ph="{...}" />
-                <marker date="1549511165684" expanded="true" signature="274:281" ph="{...}" />
-                <marker date="1549511165684" expanded="true" signature="336:343" ph="{...}" />
+                <marker date="1549588525514" expanded="false" signature="6:78" ph="..." />
+                <marker date="1549588525514" expanded="true" signature="80:296" ph="/* Think of this class like a job board, a collection of tasks for passive processes to take care of... WIP ... */" />
+                <marker date="1549588525514" expanded="true" signature="334:455" ph="{...}" />
+                <marker date="1549588525514" expanded="true" signature="384:391" ph="{...}" />
+                <marker date="1549588525514" expanded="true" signature="446:453" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Main/AiGlobal.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+              <folding>
+                <marker date="1549588413962" expanded="false" signature="6:78" ph="..." />
+                <marker date="1549588413962" expanded="true" signature="80:247" ph="/* This will be the proxy between implicit and explicit AI functions. It will also serve to translate existing cl ... */" />
+                <marker date="1549588413962" expanded="true" signature="287:408" ph="{...}" />
+                <marker date="1549588413962" expanded="true" signature="337:344" ph="{...}" />
+                <marker date="1549588413962" expanded="true" signature="399:406" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -70,6 +87,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/PCCEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Mammal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AnimalKingdom/Rodent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Main/AiGlobal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Main/TheWall.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -82,6 +100,7 @@
         <option value="$PROJECT_DIR$/Assets/Fish.cs" />
         <option value="$PROJECT_DIR$/Assets/AnimalKingdom/Rodent.cs" />
         <option value="$PROJECT_DIR$/Assets/Mammal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Main/AiGlobal.cs" />
         <option value="$PROJECT_DIR$/Assets/Main/TheWall.cs" />
       </list>
     </option>
@@ -98,7 +117,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
@@ -107,6 +125,7 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,11 +179,12 @@
       <workItem from="1549410889858" duration="441000" />
       <workItem from="1549475443729" duration="1077000" />
       <workItem from="1549511016376" duration="153000" />
+      <workItem from="1549588228012" duration="463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6570000" />
+    <option name="totallyTimeSpent" value="7033000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -178,7 +198,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20895523" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21108742" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -190,7 +210,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -243,15 +263,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Main/AiGlobal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding>
+            <marker date="1549588413962" expanded="false" signature="6:78" ph="..." />
+            <marker date="1549588413962" expanded="true" signature="80:247" ph="/* This will be the proxy between implicit and explicit AI functions. It will also serve to translate existing cl ... */" />
+            <marker date="1549588413962" expanded="true" signature="287:408" ph="{...}" />
+            <marker date="1549588413962" expanded="true" signature="337:344" ph="{...}" />
+            <marker date="1549588413962" expanded="true" signature="399:406" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Main/TheWall.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="106" selection-start-line="4" selection-start-column="106" selection-end-line="4" selection-end-column="106" />
+        <state relative-caret-position="45">
+          <caret line="5" column="109" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
           <folding>
-            <marker date="1549511165684" expanded="false" signature="6:78" ph="..." />
-            <marker date="1549511165684" expanded="true" signature="224:345" ph="{...}" />
-            <marker date="1549511165684" expanded="true" signature="274:281" ph="{...}" />
-            <marker date="1549511165684" expanded="true" signature="336:343" ph="{...}" />
+            <marker date="1549588525514" expanded="false" signature="6:78" ph="..." />
+            <marker date="1549588525514" expanded="true" signature="80:296" ph="/* Think of this class like a job board, a collection of tasks for passive processes to take care of... WIP ... */" />
+            <marker date="1549588525514" expanded="true" signature="334:455" ph="{...}" />
+            <marker date="1549588525514" expanded="true" signature="384:391" ph="{...}" />
+            <marker date="1549588525514" expanded="true" signature="446:453" ph="{...}" />
           </folding>
         </state>
       </provider>

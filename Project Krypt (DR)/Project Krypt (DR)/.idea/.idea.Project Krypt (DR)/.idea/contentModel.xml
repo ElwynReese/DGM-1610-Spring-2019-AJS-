@@ -14,6 +14,8 @@
           <e p="Rodent.cs" t="Include" />
         </e>
         <e p="Main" t="Include">
+          <e p="AiGlobal.cs" t="Include" />
+          <e p="PlayerControl.cs" t="Include" />
           <e p="TheWall.cs" t="Include" />
         </e>
         <e p="Mammal.cs" t="Include" />
