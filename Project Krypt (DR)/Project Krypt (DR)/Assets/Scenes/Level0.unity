@@ -5364,6 +5364,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 731918101}
+  - component: {fileID: 731918102}
   m_Layer: 0
   m_Name: FantasCreatures
   m_TagString: Untagged
@@ -5384,6 +5385,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &731918102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 731918100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf0dc5c04af599946a9adbd4d794c5f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &798983789
 GameObject:
   m_ObjectHideFlags: 0
@@ -5392,6 +5404,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 798983790}
+  - component: {fileID: 798983791}
   m_Layer: 0
   m_Name: DarkVein
   m_TagString: Untagged
@@ -5412,6 +5425,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &798983791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 798983789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bfbc5cae3b7e7243ad2820a41e767f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &937311454
 GameObject:
   m_ObjectHideFlags: 0
@@ -5877,6 +5901,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1372134125}
+  - component: {fileID: 1372134126}
   m_Layer: 0
   m_Name: HeavenlyCreatures
   m_TagString: Untagged
@@ -5897,6 +5922,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1372134126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1372134124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05d8598fece40c149a0b4e02f6ea1c0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1413439227
 GameObject:
   m_ObjectHideFlags: 0
