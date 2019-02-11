@@ -32,6 +32,7 @@
           <e p="TheWall.cs" t="Include" />
         </e>
         <e p="UI" t="Include">
+          <e p="AdHUD.cs" t="Include" />
           <e p="AdMenu.cs" t="Include" />
           <e p="DialogueBox.cs" t="Include" />
           <e p="InMenu.cs" t="Include" />

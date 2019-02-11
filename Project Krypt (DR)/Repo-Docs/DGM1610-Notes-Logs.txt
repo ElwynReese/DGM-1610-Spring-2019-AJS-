@@ -1,5 +1,30 @@
 Intro to Scripting DGM1610
 
+Feb 11th, 2019 - Ints, strings, and Data Types
+
+-Every time we make a new script/class, we make a new data type.
+-Hardcoded scripts are uneditable by the engine.
+-Reviewed script component adding. This makes the class object instanced.
+-float is short for floating point value. Good for things like a variable velocity. Floats are really hard to calculate/
+-Red squiggly line = error when coding.
+-Doubles aren't used often in game design because the accuracy is typically not needed. Best practice is to not use them.
+- public bool CanMove; (Bools are really cheap resourcewise.)
+- public int FurCount = 10000;
+- public float EatingSpeed = 0.4f;
+- public bool CanEat = True;
+-Floats only need to be declared in the script, not in the component menu.
+- public UnityEvent Event; (JetBrains Rider will autocomplete prerequisite code.)
+-
+void Start()
+{
+Event.Invoke();
+}
+
+-The above script when connected together and modyfied in unity was used to invoke a 'setactive' function. This made the mammal cube disappear when the game started.
+-A threaded pipe is a tight coupling.
+-PVC pipe put together without thought or plan is like a loose coupling.
+-
+
 Feb 6th, 2019
 
 -Review: Classes, Scripts including start and update.

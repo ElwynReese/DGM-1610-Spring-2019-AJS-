@@ -33,7 +33,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AdMenu.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AdMenu.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/UI/AdMenu.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -48,12 +48,27 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Animal.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/CreatureSet/AnimalKingdom/Animal.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1549902946844" expanded="false" signature="6:107" ph="..." />
+                <marker date="1549902946844" expanded="true" signature="144:529" ph="{...}" />
+                <marker date="1549902946844" expanded="true" signature="459:465" ph="{...}" />
+                <marker date="1549902946844" expanded="true" signature="520:527" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/CreatureSet/AnimalKingdom/Animal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UI/AdMenu.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -106,8 +121,8 @@
       </pane>
       <pane id="Scratches" />
       <pane id="SolutionExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,11 +177,12 @@
       <workItem from="1549662762716" duration="93000" />
       <workItem from="1549864956996" duration="64000" />
       <workItem from="1549903619230" duration="61000" />
+      <workItem from="1549906630503" duration="594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7251000" />
+    <option name="totallyTimeSpent" value="7845000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -188,20 +204,20 @@
       <window_info anchor="bottom" id="Version Control" order="15" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21748401" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2196162" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="TeamCity" order="12" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -230,26 +246,27 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/PCCEvent.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/UI/AdMenu.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="135">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <marker date="1549903624430" expanded="false" signature="6:78" ph="..." />
+            <marker date="1549903624430" expanded="true" signature="116:237" ph="{...}" />
+            <marker date="1549903624430" expanded="true" signature="166:173" ph="{...}" />
+            <marker date="1549903624430" expanded="true" signature="228:235" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PCCEvent.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Animal.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Bird.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Dog.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Fish.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/AnimalKingdom/Rodent.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Mammal.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/PCCEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PCCEvent.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Main/TheWall.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Main/AiGlobal.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Main/PocSelectionTool.cs" />
@@ -269,6 +286,18 @@
             <marker date="1549903624430" expanded="true" signature="116:237" ph="{...}" />
             <marker date="1549903624430" expanded="true" signature="166:173" ph="{...}" />
             <marker date="1549903624430" expanded="true" signature="228:235" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/CreatureSet/AnimalKingdom/Animal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1549902946844" expanded="false" signature="6:107" ph="..." />
+            <marker date="1549902946844" expanded="true" signature="144:529" ph="{...}" />
+            <marker date="1549902946844" expanded="true" signature="459:465" ph="{...}" />
+            <marker date="1549902946844" expanded="true" signature="520:527" ph="{...}" />
           </folding>
         </state>
       </provider>
