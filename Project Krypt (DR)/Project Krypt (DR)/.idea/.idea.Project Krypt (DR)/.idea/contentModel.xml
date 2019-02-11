@@ -6,12 +6,14 @@
     <e p="Z:\DGM1610\DGM-1610-Spring-2019-DR-\Project Krypt (DR)\Project Krypt (DR)" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="AnimalKingdom" t="Include">
-          <e p="Animal.cs" t="Include" />
-          <e p="Bird.cs" t="Include" />
-          <e p="Dog.cs" t="Include" />
-          <e p="Fish.cs" t="Include" />
-          <e p="Rodent.cs" t="Include" />
+        <e p="CreatureSet" t="Include">
+          <e p="AnimalKingdom" t="Include">
+            <e p="Animal.cs" t="Include" />
+            <e p="Bird.cs" t="Include" />
+            <e p="Dog.cs" t="Include" />
+            <e p="Fish.cs" t="Include" />
+            <e p="Rodent.cs" t="Include" />
+          </e>
         </e>
         <e p="Main" t="Include">
           <e p="AiGlobal.cs" t="Include" />
@@ -21,6 +23,9 @@
         </e>
         <e p="Mammal.cs" t="Include" />
         <e p="PCCEvent.cs" t="Include" />
+        <e p="UI" t="Include">
+          <e p="DialogueBox.cs" t="Include" />
+        </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
