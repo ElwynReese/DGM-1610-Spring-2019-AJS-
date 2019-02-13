@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\10873423\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Project Krypt (DR).2135706363.00" t="ExcludeRecursive" />
-    <e p="C:\Users\10873423\Documents\DGM-1610-Spring-2019-DR-\Project Krypt (DR)\Project Krypt (DR)" t="IncludeRecursive">
+    <e p="C:\Users\cyber\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\cyber\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Project Krypt (DR).350819710.00" t="ExcludeRecursive" />
+    <e p="Z:\DGM1610\DGM-1610-Spring-2019-DR-\Project Krypt (DR)\Project Krypt (DR)" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="CreatureSet" t="Include">
@@ -30,6 +31,9 @@
           <e p="PlayerControl.cs" t="Include" />
           <e p="PocSelectionTool.cs" t="Include" />
           <e p="TheWall.cs" t="Include" />
+        </e>
+        <e p="Opposition" t="Include">
+          <e p="EnemyLogicDef.cs" t="Include" />
         </e>
         <e p="UI" t="Include">
           <e p="AdHUD.cs" t="Include" />
