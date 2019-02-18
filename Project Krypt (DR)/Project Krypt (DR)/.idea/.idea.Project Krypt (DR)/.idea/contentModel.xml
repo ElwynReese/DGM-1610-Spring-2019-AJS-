@@ -24,12 +24,19 @@
             <e p="HeavenlyCreatures.cs" t="Include" />
           </e>
         </e>
+        <e p="Items" t="Include">
+          <e p="Accessories" t="Include">
+            <e p="Trinket.cs" t="Include" />
+          </e>
+        </e>
         <e p="Main" t="Include">
           <e p="AiGlobal.cs" t="Include" />
+          <e p="FidelityMonitor.cs" t="Include" />
           <e p="Mammal.cs" t="Include" />
           <e p="PCCEvent.cs" t="Include" />
           <e p="PlayerControl.cs" t="Include" />
           <e p="PocSelectionTool.cs" t="Include" />
+          <e p="SfxController.cs" t="Include" />
           <e p="TheWall.cs" t="Include" />
         </e>
         <e p="Opposition" t="Include">

@@ -12,7 +12,12 @@ public class TheWall : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
-		
+	void Update()
+	{
+		if (frametime < 34)
+		{
+			print("Frame time / framerate dropping below stable 30fps");
+		}
 	}
 }
+
