@@ -50,14 +50,14 @@
         <entry file="file://$PROJECT_DIR$/Assets/Main/TheWall.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+              <caret line="18" column="63" lean-forward="true" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
               <folding>
-                <marker date="1550513524668" expanded="false" signature="6:78" ph="..." />
-                <marker date="1550513524668" expanded="true" signature="80:296" ph="/* Think of this class like a job board, a collection of tasks for passive processes to take care of... WIP ... */" />
-                <marker date="1550513524668" expanded="true" signature="334:546" ph="{...}" />
-                <marker date="1550513524668" expanded="true" signature="384:391" ph="{...}" />
-                <marker date="1550513524668" expanded="true" signature="444:544" ph="{...}" />
-                <marker date="1550513524668" expanded="true" signature="469:541" ph="{...}" />
+                <marker date="1550642081857" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550642081857" expanded="true" signature="80:296" ph="/* Think of this class like a job board, a collection of tasks for passive processes to take care of... WIP ... */" />
+                <marker date="1550642081857" expanded="true" signature="334:546" ph="{...}" />
+                <marker date="1550642081857" expanded="true" signature="384:391" ph="{...}" />
+                <marker date="1550642081857" expanded="true" signature="444:544" ph="{...}" />
+                <marker date="1550642081857" expanded="true" signature="478:541" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -134,15 +134,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
       <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-        <option name="show-project-names" value="true" />
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,11 +203,12 @@
       <workItem from="1549906630503" duration="594000" />
       <workItem from="1550036597211" duration="59000" />
       <workItem from="1550512771673" duration="763000" />
+      <workItem from="1550641669386" duration="453000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8667000" />
+    <option name="totallyTimeSpent" value="9120000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -221,7 +222,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2238806" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2260128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -285,6 +286,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/UI/AdMenu.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CreatureSet/AnimalKingdom/Animal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1549510727735" expanded="false" signature="6:107" ph="..." />
+            <marker date="1549510727735" expanded="true" signature="144:529" ph="{...}" />
+            <marker date="1549510727735" expanded="true" signature="459:465" ph="{...}" />
+            <marker date="1549510727735" expanded="true" signature="520:527" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Opposition/EnemyLogicDef.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -309,29 +322,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/CreatureSet/AnimalKingdom/Animal.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1549510727735" expanded="false" signature="6:107" ph="..." />
-            <marker date="1549510727735" expanded="true" signature="144:529" ph="{...}" />
-            <marker date="1549510727735" expanded="true" signature="459:465" ph="{...}" />
-            <marker date="1549510727735" expanded="true" signature="520:527" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Main/TheWall.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+          <caret line="18" column="63" lean-forward="true" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
           <folding>
-            <marker date="1550513524668" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550513524668" expanded="true" signature="80:296" ph="/* Think of this class like a job board, a collection of tasks for passive processes to take care of... WIP ... */" />
-            <marker date="1550513524668" expanded="true" signature="334:546" ph="{...}" />
-            <marker date="1550513524668" expanded="true" signature="384:391" ph="{...}" />
-            <marker date="1550513524668" expanded="true" signature="444:544" ph="{...}" />
-            <marker date="1550513524668" expanded="true" signature="469:541" ph="{...}" />
+            <marker date="1550642081857" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550642081857" expanded="true" signature="80:296" ph="/* Think of this class like a job board, a collection of tasks for passive processes to take care of... WIP ... */" />
+            <marker date="1550642081857" expanded="true" signature="334:546" ph="{...}" />
+            <marker date="1550642081857" expanded="true" signature="384:391" ph="{...}" />
+            <marker date="1550642081857" expanded="true" signature="444:544" ph="{...}" />
+            <marker date="1550642081857" expanded="true" signature="478:541" ph="{...}" />
           </folding>
         </state>
       </provider>
