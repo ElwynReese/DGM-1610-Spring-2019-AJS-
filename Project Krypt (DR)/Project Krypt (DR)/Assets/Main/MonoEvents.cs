@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -20,9 +20,14 @@ public class MonoEvents : MonoBehaviour
         print("MouseDown");
     }
 
+    
     // Update is called once per frame
     void Update()
     {
-        
+       if (Input.GetKeyDown(KeyCode.W))
+           {
+           print("W key pressed");
+           
+           } 
     }
 }
