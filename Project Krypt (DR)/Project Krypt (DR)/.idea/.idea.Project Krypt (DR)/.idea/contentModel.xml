@@ -38,6 +38,8 @@
           <e p="MonoEvents.cs" t="Include" />
           <e p="MonoEventsTwo.cs" t="Include" />
           <e p="MouseController.cs" t="Include" />
+          <e p="MoveBase.cs" t="Include" />
+          <e p="MoveSingleJump.cs" t="Include" />
           <e p="ParticleSystem.cs" t="Include" />
           <e p="PlayerControl.cs" t="Include" />
           <e p="PlayerControlInClass.cs" t="Include" />
