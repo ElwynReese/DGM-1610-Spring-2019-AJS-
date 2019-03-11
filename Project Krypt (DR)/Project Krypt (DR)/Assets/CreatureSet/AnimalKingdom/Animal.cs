@@ -16,6 +16,7 @@ public class Animal : MonoBehaviour
 	public int weight;
 	public bool fur;
 	public bool exoskeleton;
+	protected Color newColor;
 
 	public Color SkinColor;
 	// Use this for initialization

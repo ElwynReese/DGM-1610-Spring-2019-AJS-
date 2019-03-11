@@ -45,6 +45,7 @@
           <e p="PlayerControlInClass.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
           <e p="PowerUpBase.cs" t="Include" />
+          <e p="ReturnFunctions.cs" t="Include" />
           <e p="SfxController.cs" t="Include" />
           <e p="TheWall.cs" t="Include" />
         </e>

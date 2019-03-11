@@ -9,7 +9,7 @@ public class Fish : Animal
 	public Color FinColor;
 	// Use this for initialization
 	void Start () {
-		
+		newColor = Color.blue;
 	}
 	
 	// Update is called once per frame
