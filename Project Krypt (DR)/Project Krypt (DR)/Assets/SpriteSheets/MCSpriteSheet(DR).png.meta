@@ -1,7 +1,25 @@
 fileFormatVersion: 2
 guid: 3cef70f0ad766464d98b401237d9d743
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: PCIdleCombat
+    21300002: PCIdle
+    21300004: PCLAttk1
+    21300006: PCLAttk2
+    21300008: PCLattk3
+    21300010: PCGunAiming
+    21300012: PCWalk01
+    21300014: PCWalk02
+    21300016: PCWalk03
+    21300018: PCWalk04
+    21300020: PCWalk05
+    21300022: PCBlock
+    21300024: PCHideDuck
+    21300026: PCRun01
+    21300028: PCRun02
+    21300030: PCRun03
+    21300032: PCRun04
+    21300034: PCJump
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -40,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +87,402 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PCIdleCombat
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1460
+        width: 184
+        height: 491
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 2, y: 7, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b731d79877fd45baf58dc4ffbac76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCIdle
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1510
+        width: 151
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81889d58062c37488976838033af00d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCLAttk1
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1508
+        width: 323
+        height: 487
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a70c3e9c15950a49b3ec5cb9d797e01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCLAttk2
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1523
+        width: 466
+        height: 417
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f242f82b2b71d46a55eb4a606c0db5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCLattk3
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1538
+        width: 407
+        height: 397
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f2b674c3fe71a4798fbd54de3ae80b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCGunAiming
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 959
+        width: 205
+        height: 438
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1596e592cd86d0947adfc49defb58a38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCWalk01
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 972
+        width: 207
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354ece10f57292842a172fa47d57f1b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCWalk02
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 985
+        width: 126
+        height: 415
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483013e9db1e5f8429e4fe567cf3c3d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCWalk03
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 999
+        width: 254
+        height: 406
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f42b02380fdb0448d783a64596b7e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCWalk04
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1015
+        width: 108
+        height: 407
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f486e0dcb31e4f489633613b2c49f63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCWalk05
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1010
+        width: 287
+        height: 413
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e033a1d22fd073349bb688bd6d1d1451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCBlock
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1020
+        width: 205
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be52390286d19b44cb70c15131273446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCHideDuck
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1007
+        width: 288
+        height: 275
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bac4b363a54df54d922c41d16b40864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCRun01
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 546
+        width: 352
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3af91bd8c59609479afc7d7a6915b6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCRun02
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 550
+        width: 193
+        height: 333
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8952d18351212344980353d774620d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCRun03
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 531
+        width: 328
+        height: 397
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a946acb905874042b2dc355f5e952f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCRun04
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 599
+        width: 243
+        height: 364
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de514669f13f68543af6ea044f34953d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PCJump
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 518
+        width: 234
+        height: 411
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f0030926cb6a0409bab2833c565c59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline:
     - - {x: -885, y: 441}
       - {x: -885, y: 920}
