@@ -84,10 +84,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Main/PlayerControlInClass.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="718">
+            <state relative-caret-position="735">
               <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
               <folding>
                 <marker date="1552618449576" expanded="false" signature="6:129" ph="..." />
@@ -99,6 +99,22 @@
                 <marker date="1552618449576" expanded="true" signature="942:1018" ph="{...}" />
                 <marker date="1552618449576" expanded="true" signature="1025:1076" ph="{...}" />
                 <marker date="1552618449576" expanded="true" signature="1077:1209" ph="/* if (controller.isGrounded &amp;&amp; Input.GetButton(&quot;Jump&quot;)) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Main/FloatData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+              <folding>
+                <marker date="1553817348324" expanded="true" signature="6:78" ph="..." />
+                <marker date="1553817348324" expanded="true" signature="139:472" ph="{...}" />
+                <marker date="1553817348324" expanded="true" signature="213:290" ph="{...}" />
+                <marker date="1553817348324" expanded="true" signature="337:378" ph="{...}" />
+                <marker date="1553817348324" expanded="true" signature="426:470" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -163,6 +179,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Main/ParticleSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CreatureSet/AnimalKingdom/Fish.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Main/MonoEventsTwo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Main/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Main/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Main/PowerUpBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Main/MoveBase.cs" root0="FORCE_HIGHLIGHTING" />
@@ -207,6 +224,7 @@
         <option value="$PROJECT_DIR$/Assets/CreatureSet/AnimalKingdom/Fish.cs" />
         <option value="$PROJECT_DIR$/Assets/Main/ReturnFunctions.cs" />
         <option value="$PROJECT_DIR$/Assets/Main/PlayerControlInClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Main/FloatData.cs" />
       </list>
     </option>
   </component>
@@ -222,12 +240,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -304,11 +322,12 @@
       <workItem from="1552321713209" duration="2354000" />
       <workItem from="1552618365558" duration="683000" />
       <workItem from="1552698306120" duration="599000" />
+      <workItem from="1553816899402" duration="465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33527000" />
+    <option name="totallyTimeSpent" value="33992000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -322,7 +341,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25479743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -485,7 +504,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Main/PlayerControlInClass.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="718">
+        <state relative-caret-position="735">
           <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
           <folding>
             <marker date="1552618449576" expanded="false" signature="6:129" ph="..." />
@@ -497,6 +516,20 @@
             <marker date="1552618449576" expanded="true" signature="942:1018" ph="{...}" />
             <marker date="1552618449576" expanded="true" signature="1025:1076" ph="{...}" />
             <marker date="1552618449576" expanded="true" signature="1077:1209" ph="/* if (controller.isGrounded &amp;&amp; Input.GetButton(&quot;Jump&quot;)) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Main/FloatData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <marker date="1553817348324" expanded="true" signature="6:78" ph="..." />
+            <marker date="1553817348324" expanded="true" signature="139:472" ph="{...}" />
+            <marker date="1553817348324" expanded="true" signature="213:290" ph="{...}" />
+            <marker date="1553817348324" expanded="true" signature="337:378" ph="{...}" />
+            <marker date="1553817348324" expanded="true" signature="426:470" ph="{...}" />
           </folding>
         </state>
       </provider>

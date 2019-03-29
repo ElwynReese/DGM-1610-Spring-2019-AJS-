@@ -35,6 +35,7 @@
           <e p="Conditionals.cs" t="Include" />
           <e p="ContextInteraction.cs" t="Include" />
           <e p="FidelityMonitor.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
           <e p="Mammal.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
           <e p="MonoEventsTwo.cs" t="Include" />
