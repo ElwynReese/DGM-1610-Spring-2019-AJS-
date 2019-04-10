@@ -34,6 +34,7 @@
           <e p="Collection.cs" t="Include" />
           <e p="Conditionals.cs" t="Include" />
           <e p="ContextInteraction.cs" t="Include" />
+          <e p="Counter.cs" t="Include" />
           <e p="FidelityMonitor.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="Mammal.cs" t="Include" />
