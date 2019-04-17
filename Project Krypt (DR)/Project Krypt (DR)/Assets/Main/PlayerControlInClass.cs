@@ -6,7 +6,6 @@ using UnityEngine.Events;
 
 public class PlayerControlInClass : MonoBehaviour
 {
-
 	public UnityEvent OnGrounded;
 	public UnityEvent OffGrounded;
 
@@ -53,6 +52,7 @@ public class PlayerControlInClass : MonoBehaviour
 		position.y += Gravity * Time.deltaTime;
 		
 		position.x = Input.GetAxis("Horizontal") * Speed * Time.deltaTime;
+
 		
 		controller.Move(position); //This will put the ship in the 0,0,0 position. This is what is actually making it move...
 	}
